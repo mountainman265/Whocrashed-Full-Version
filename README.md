@@ -236,4 +236,4 @@ This repository serves as the official landing page for WhoCrashed. The software
 **Get the most recent version of WhoCrashed today!**
 
 ---
-**Last updated:** 2026-10-20 21:03:17 UTC
+**Last updated:** 2026-10-21 00:16:15 UTC
